@@ -15,15 +15,9 @@ Release/
 bin/cookies.txt
 data/cookies.txt
 logs/
-.opencode/
-.claude/
-.agents/
-.codex/
-.codegraph
 graphify-out/
 .coverage
 .gemini/
-opencode.jsonc
 GEMINI.md
 .pytest_temp/
 skills-lock.json
@@ -33,3 +27,4 @@ skills-lock.json
 *.mp4
 *.webm
 *.zip
+*.rar
